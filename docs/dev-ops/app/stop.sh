@@ -1,0 +1,1 @@
+docker stop big-market-1-wuij
