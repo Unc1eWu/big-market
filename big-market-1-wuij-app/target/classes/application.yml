@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: big-market-1-wuij-app
+  profiles:
+    active: dev
